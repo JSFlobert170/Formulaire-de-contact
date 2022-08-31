@@ -1,0 +1,90 @@
+h1{
+    background-color :#c4dd52;
+    border:50%;
+    color:black;
+    text-align: center;
+    font-size: 500%;
+    }
+
+    input[type=text] {
+        border: 1px solid #000;
+        border-radius: 0;
+        background-color: #9ef0a6;
+      
+        -webkit-appearance: none;
+      }
+     /* input[type=search] {
+        border: 1px solid #000;
+        border-radius: 0;
+        background-color: #9ef0a6;
+      
+        -webkit-appearance: none;
+      }*/
+
+    .banniere{
+    border-radius: 10px;
+    border:6px solid #1F04CB;
+    
+    opacity: 0.95;
+       width:1200px;
+       height:100px;
+       margin-left:auto;
+       margin-right:auto;
+     border-style: outset;
+    }
+    
+    h2{
+    text-align:center;
+    text-decoration:underline black;
+    font-size:250%;
+    }
+    
+    .cadre{
+    position:fixed;
+    position:relative;
+    background-color:#44e755;
+    border:6px solid #1F04CB;
+       width:1000px;
+       height:auto;
+       opacity: 0.85;
+      
+       margin-left:auto;
+       margin-right:auto;
+       margin-top:-5px;
+       padding-bottom:50px; 
+       border-style: ridge;
+    }
+    
+    p{
+    margin-right:4px;
+    padding-right:10px; 
+    font-size:100%;
+    width: 20px; /* à modifier selon vos besoins */
+    }
+    
+    .background{
+    background-image: url(data/fond.png);
+    /*background-color:#7fb2e0;*/
+    background-attachment:fixed;
+    }
+    
+    footer {
+        padding: 35px ;
+        background-color:#BFBFBF;
+        border:2px ridge black;
+        margin-left:-4px;
+        margin-right:-4px;
+    }
+
+    table
+{
+    border-collapse: collapse;
+    max-width: 10%;
+}
+    tr,td,th{
+      border:2px groove black;
+      /*background-color:black;*/
+      padding:4px;
+      margin-left:200px;
+      
+    }
